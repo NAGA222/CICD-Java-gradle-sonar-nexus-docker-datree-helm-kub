@@ -14,6 +14,6 @@ kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documen
 kubeadm init (do not do this)
 kubeadm reset
 
-
+1d64e0f555c7122b22c27fc66caaddd581ce5298 key
 
 81d3e94e9112b57e95cc5e200d7cab233a814063
